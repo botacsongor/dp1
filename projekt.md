@@ -1,7 +1,5 @@
-H1 címsor: „Projektek”
-   * Egy idézet blokk a kedvenc mottódról
-   * Egy kódrészlet (pl. `console.log("Hello Projekt!")`)
-   * Egy link egy általad használt weboldalra
+
+
 
    # Projektek
 

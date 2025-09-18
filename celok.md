@@ -1,7 +1,4 @@
-H1 címsor: „Jövőbeli céljaim”
-   * Számozott lista (pl. tanulás, munka, utazás)
-   * Táblázat a célokhoz: *Év – Cél – Megvalósítás módja*
-   * Egy kép beszúrása internetes linkről
+
 
    # Jövőbeli céljaim
 

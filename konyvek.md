@@ -1,6 +1,3 @@
-* H1 címsor: „Kedvenc könyveim”
-   * Táblázat: *Cím – Szerző – Év* (legalább 3 könyv)
-   * Egy dőlt betűs mondat a könyvekről
 
    # Kedvenc könyveim
 
